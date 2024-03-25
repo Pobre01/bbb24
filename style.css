@@ -4,16 +4,19 @@
 }
     
 body {
-    background: #CCCCCC
+    background: #CCCCCC;
 }
+
 #banner{
-width: 100%;
+ width: 100%;
+}
+
 h1 {
-    text-align: center
+    text-align: center;
 }
 
 em strong {
-    color: #914803
+    color: #914803;
 }
 
 p {
