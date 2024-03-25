@@ -6,15 +6,21 @@
 body {
     background: #CCCCCC
 }
-
+#banner{
+width: 100%;
 h1 {
     text-align: center
 }
 
-p {
-    text-align: center;
+em strong {
+    color: #914803
 }
 
-em strong {
-    color: #FF0000;
-}
+p {
+    text-align: center;
+    font-size: 20px;
+} 
+ #missao{
+      font-size: 30px; 
+  }  
+
