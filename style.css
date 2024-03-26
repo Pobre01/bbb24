@@ -31,3 +31,19 @@ p {
       font-size: 30px; 
   }  
 
+.itens{
+   fonte-style: italic;
+ }
+.beneficios{
+  background: #FFFFFF;
+  podding: 20px;
+}
+h2{
+ text-align: center;
+}
+ul{
+ display: inline-block
+ vertical-align: top;
+ width: 20%;
+ margin_-right: 15%;
+}
